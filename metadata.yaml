@@ -1,0 +1,31 @@
+_repo: Bouvard-and-P-cuchet--A-Tragi-comic-Novel-of-Bourgeois-Life_25014
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flaubert, Gustave
+    birthdate: 1821
+    deathdate: 1880
+    gutenberg_agent_id: '574'
+    url: http://www.gutenberg.org/2009/agents/574
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
+description: ''
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2008-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25014'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle class -- France -- History -- 19th century -- Fiction'
+- !lcsh 'French fiction -- Translations into English'
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Middle class -- France -- Retirement -- Fiction'
+title: 'Bouvard and Pécuchet: A Tragi-comic Novel of Bourgeois Life, part 1'
+url: http://www.gutenberg.org/ebooks/25014
